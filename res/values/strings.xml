@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">host 自动更新器</string>
+    <string name="about_dialog_string">1.  请低调传播\n2. 如果「检查更新」迟迟没有反应，请重启程序。</string>
+    <string name="help_dialog_string">1. 按「检查更新」获取最新 hosts 文件。\n2. 按「更新」修改 hosts 文件。\n3. 按 「重置」将 hosts 文件恢复空白状态。</string>
+    <string name="about">关于</string>
+    <string name="share">分享</string>
+    <string name="help">帮助</string>
+    <string name="loading_host_file">正在取回 hosts 文件</string>
+    <string name="new_hosts_file">有新的 hosts 文件</string>
+    <string name="no_new_hosts_file">没有新的 hosts 文件</string>
+    <string name="share_text">你好，我正在使用 Smarthosts for Android (unofficial)，你也来一起使用吧。下载地址：http://www.box.com/s/mup6v4qgfq82ajzrljp8</string>
+    <string name="change">更新</string>
+    <string name="get_new_hosts_file">获取新 hosts 文件</string>
+    <string name="revert">重置</string>
+    <string name="host_file_source">hosts 文件源 :</string>
+    <string name="hint">提示 :</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="input_hint">请输入</string>
+    <string name="replaced_with_new_hosts_file">已替换最新 hosts 文件</string>
+
+</resources>
